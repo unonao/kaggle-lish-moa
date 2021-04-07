@@ -10,6 +10,20 @@
     - 出現回数の少ないターゲットを増やす
     - 2つのctl_sample を用いる
 
+
+# モデル
+## base.ipynb
+
+- private: 0.01612
+- public: 0.01845
+
+ベースとなる転移学習無しの1DCNN
+
+## augmented_base.ipynb
+
+base.ipynb に、数が少ないターゲットを加えたもの
+
+
 # 参考URL
 - ベースモデル
     - [2nd Place Solution - with 1D-CNN (Private LB: 0.01601)](https://www.kaggle.com/c/lish-moa/discussion/202256)
