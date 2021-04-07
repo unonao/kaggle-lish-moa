@@ -1,5 +1,5 @@
 /input/lish-moa
-
+/input/iterative-stratification
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
