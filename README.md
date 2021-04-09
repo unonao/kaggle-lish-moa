@@ -21,7 +21,21 @@
 
 ## augmented_base.ipynb
 
-base.ipynb に、数が少ないターゲットを加えたもの
+- private: 0.01612
+- public: 0.01845
+
+base.ipynb に、数が少ないターゲットを加えたもの（未提出）
+
+
+## transfer.ipynb (金メダル)
+
+- private: 0.01603
+- public: 0.01830
+
+転移学習+seed値ごとにCVを切る
+
+## transfer_cv.ipynb
+drug_id を用いてCVを切ったもの
 
 
 # 参考URL
