@@ -1,5 +1,6 @@
 /input/lish-moa
 /input/iterative-stratification
+/working/submission.csv
 *.pth
 
 # Byte-compiled / optimized / DLL files
